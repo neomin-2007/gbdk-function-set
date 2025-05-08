@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "begin_code.h": "c",
+        "gbdk-lib.h": "c",
+        "stdio.h": "c"
+    }
+}
